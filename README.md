@@ -4,23 +4,4 @@
 
 🇺🇸🇬🇧 [Here](https://github.com/MandyNeumeyer) you will find my job account for teaching at DCI. 🇩🇪 [Hier](https://github.com/MandyNeumeyer) geht es zu meinem Lehrer Account für den Unterricht am DCI.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase" width="50px" alt="firebase icon"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="50px" alt="MySQL icon"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50px" alt="git icon"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50px" alt="github icon"/>
-  <img src="https://skillicons.dev/icons?i=bash" width="50px" alt="bash icon"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50px" alt="html5 icon"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50px" alt="css3 icon"/>
-  <img src="https://skillicons.dev/icons?i=sass" width="50px" alt="sass icon"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50px" alt="bootstrap icon"/>
-  <img src="https://skillicons.dev/icons?i=storybook" width="50px" alt="storybook icon"/>
-  <img src="https://skillicons.dev/icons?i=antd" width="50px" alt="antd icon"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="50px" alt="javascript icon"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50px" alt="nodejs icon"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50px" alt="react icon"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50px" alt="mongodb icon"/>
-  <img src="https://skillicons.dev/icons?i=jest" width="50px" alt="jest icon"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="50px" alt="vscode icon"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="50px" alt="linux icon"/>
-</div>
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white")](#) [![Redux Badge](https://img.shields.io/badge/redux-%23593d88?style=for-the-badge&labelColor=black&logo=redux&logoColor=%23593d88)](#) [![Express Badge](https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#) [![mongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) [![Nodejs Badge](https://img.shields.io/badge/node.js-%2343853D?style=for-the-badge&labelColor=black&logo=javascript&logoColor=%2343853D)](#)
